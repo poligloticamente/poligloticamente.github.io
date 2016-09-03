@@ -2,7 +2,7 @@
 layout: post
 title:  "Anki: aprenda a não esquecer!"
 date:   2016-09-03 18:10:16 +0200
-categories: aprender
+categories: aprender apresentando
 ---
 
 Esquecer. Sim,esquecer. Acho que ninguém esquece que sempre corremos o risco de esquecer das coisas, não? Principalmente quando se trata de um outro idioma: precisamos aprender reconhecer os sons, as letras, as expressões, pronúncia... e sem falar em vocabulário! Se você pesquisar pela internet, vai achar muitos artigos e listas sobre listas de frequência. E daí? De que adianta aprender aquelas 300 palavras que correnspondem a  mais ou menos 50% de tudo que tá pelas revistas e jornais? Repito: para quê aprendêlas se no fim vamos esquecer?
