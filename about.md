@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Conheça
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Poligloticamente é um projeto que transformar o acesso ao aprendizado de outras línguas. Aqui você encontrará informações
+sobre cursos, sites, programas, blogs e etc para te ajudar a estudar por conta própria e gastando o mínimo possível.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Além de apresentar novos recursos, o Poligloticamente também procura compartilhar idéias e métodos que favoreçam o estudante
+autodidata.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+O site é simples, mas feito com muito carinho.
+Qualquer coisa, abaixo encontra-se o nosso e-mail. Entre em contato. (:
+Inté!
