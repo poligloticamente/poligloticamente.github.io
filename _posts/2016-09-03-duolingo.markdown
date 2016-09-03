@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Duolingo: aprenda jogando!"
+date:   2016-09-03 18:15:16 +0200
+categories: aprender apresentando
+---
+
+“Duolingo é um site web de ensino de idiomas gratuito que utiliza uma plataforma crowdsourcing de tradução de textos. O serviço funciona de maneira que os usuários progridam nas lições ao mesmo tempo que traduzem conteúdo real da internet…” - Wikipedia
+
+Direto ao ponto: pode não ser lá o melhor curso, mas é de graça e apresenta muitas coisas que levariam anos em um cursinho. O site procura transformar o aprendizado em jogo, com objetivos, pontos, e a possibilidade de “competir” com outras pessoas.
+
+Para falantes do Português (sim, nós!), o Duolingo oferece cursos de Inglês, Espanhol, Francês e Alemão. Há cursos para falantes de várias outras línguas.Se você já fala Espanhol, poderia aprender Italiano, ou se fala Inglês, pode estudar o idioma Turco, Russo, ou Esperanto.
+
+Ah! E pr’aquele seu amigo gringo: tem curso de Português para falantes de Espanhol, e Inglês.
+
+Os cursos podem ser acessados pela página ou pelos aplicativos (disponíveis para produtos android e apple).
+
+Cada curso é dividido em unidades divididas por ´habilidades´ individuais. Cada ´habilidade´ inclui vocabulário referente a um assunto: profissões, comidas, lugares, objetos, viagens etc. As ´habilidades´ também podem ser uma parte gramatical da língua, tal qual: como formar os plurais, pronomes possessivos, verbos no passado etc. Mas relaxe, a gramática aparece na forma de um jogo, e você provavelmente nem vai notar.
+
+Se você estiver acessando pelo navegador (ao invés do aplicativo móvel), ao entrar em cada habilidade é possível ler uma nota sobre os pontos gramaticais tratados nas lições que compõem a habilidade.
+
+Falando nisso, cada ´habilidade´ é composta por algumas lições. Cada lição pode ser feita em cerca de cinco minutos, ou seja: mesmo que seu dia esteja muito corrido, ainda é possível encaixar cinco minutinhos pra revisar, não?
+
+Pra falar a verdade, quando comecei Dinamarquês com o Duolingo em 2014 abandonei logo. O áudio era horrível e creio que não fiquei tempo o suficiente para entender como que funcionava. Em 2016 voltei, dessa vez pra aprender Francês e, pra minha grande surpresa o áudio tinha melhorado muito, tanto que voltei a estudar Dinamarquês. Terminei os dois cursos em mais ou menos seis meses. Mas tudo isso porque eu seguia usando outros recursos, e acabei - sem querer querendo - começando a estudar o Sueco, o Alemão, Italiano e, mais recentemente, o Turco, ehe. Imagino, que se você estiver focado em um idioma, da pra terminar em cerca de 3 meses (se tiver focado!).  
+
+Por curiosidade, também fiz os ´testes´ de Inglês (para falantes de Português), Português (para falantes de Inglês), e de Espanhol e Esperanto (para falantes de inglês). Os testes me fizeram pular direto pra última unidade.
+
+As vantagens ----
+
+Ao terminar o curso você com certeza não será fluente no idioma, mas devo admitir que os cursos do Duolingo realmente incluem a grande maioria das palavras e expressões para um nível básico de um idioma. E por ´´básico´´ não quero dizer inútil. É suficiente pra se virar num país (perguntar por direções, tirar dúvidas e etc), acredito que também sirva de base para ler jornais ou revistas (e entendendo a grande maioria das coisas).
+
+As desvantagens ----
+
+Considerando que é grátis, não custa nada tentar. Porém, minha impressão (e de muitos pela internet afora), é que o Duolingo ainda não tem um método bom pra fazer o vocabulário ficar na memória. Mas idioma é um plano a longo prazo, e pelo Duolingo você pode sempre voltar e revisar, e dessa forma o vocabulário vai ficar colado na sua testa.
+
+Muitos usuários usam o Duolingo junto com um curso de vocabulário no Anki ou Memrise (assim, aprendem o vocabulário no Anki|Memrise, e voltam no Duolingo para exercitar as frases e etc). Respondendo a isso, o Duolingo criou o seu próprio serviço de cartões chamado TyneCards, que só está disponível para usuários de produtos apple por enquanto. Assim que testarmos, colocaremos o linque aqui para que você veja como que tá esse negócio indo.
+
+Se você já sabe algo da língua, pode por exemplo fazer um teste para pular|desbloquear um número X de habilidades. Mas se você não sabe nada, vai ter que passar por todas as habilidades, até aquelas que não te interessam (animais, comidas e negócios, no meu caso). E isso é um pé no saco… mas é o preço que se paga por esse esquema de ´´jogo´´.
+
+Já teci muitas lágrimas aqui sobre as vantagens de usar o Duolingo, mas não se iluda: ele não substitui o uso REAL da língua, com pessoas reais, que vão realmente reagir aos seus acertos, erros, micos e galanteios. A possibilidade de usar o microfone pra gravar a sua voz e comparar com a voz do programa é legal, mas não substitui uma conversa real.
+
+Em muitas revisões pela internet, o aspecto de ´´rede social´´ do Duolingo é tratado como uma grande vantagem. Claro que a possibilidade de usar o fórum e postar as dúvidas ajuda bastante, mas acredito que essa sociabilidade real acaba tirando o foco do alvo. Mas isso é só uma opinião, vá lá e confira. Se ´´ganhar mais pontos´´ que o coleguinha te estimula a aprender mais: a-p-r-o-v-e-i-t-e! (:
+
+Resumindo, duolingo oferece cursos para falantes de:
+
+Português ==> Inglês, Espanhol, Francês, Alemão e Italiano.
+
+Espanhol  ==> Inglês, Francês, Italiano, Português (BR), Alemão, Catalão, Esperanto, Guarani (Jopará).
+
+Inglês       ==> Espanhol, Francês, Alemão, Italiano, Português (BR), Holandês, Sueco, Russo, Irlandês, Turco, Dinamarquês, Norueguês, Polonês, Esperanto.
