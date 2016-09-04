@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conheça
-permalink: /about/
+permalink: /sobre/
 ---
 
 Poligloticamente é um projeto que transformar o acesso ao aprendizado de outras línguas. Aqui você encontrará informações
