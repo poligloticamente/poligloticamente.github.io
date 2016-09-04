@@ -5,7 +5,8 @@ date:   2016-09-04 10:16:16 +0200
 categories: blog aprender
 ---
 
-Será que precisamos realmente aprender inglês? Neste artigo abordaremos como é possível desenvolver um nível 'funcional' de inglês: aprender a buscar as informações necessárias, aprender a traduzir o que for preciso e definir quais são as suas(!) prioridades. Nem todo mundo precisa aprender a dizer as horas e falar sobre bizinez, né não?
+Será que precisamos realmente aprender inglês? Neste artigo abordaremos como é possível desenvolver um nível 'funcional' de inglês: aprender a buscar as informações necessárias, aprender a traduzir o que for preciso e definir quais são as suas(!) prioridades. Nem todo mundo precisa aprender a dizer as horas e falar sobre bizinez, né não? Porém...
+
 Existem várias razões para se aprender uma língua. Mas todos somos massacrados com as razões "práticas": emprego, oportunidades na vida, dinheiro, bla bla bla. Nesse sentido, qualquer língua 'grande' (em quantidades de falantes nativos, poder econômico, tamanho do exército e bancos que possui) é uma "vantagem" (no mercado de trabalho, talvez?).
 Mas vamos falar das razões que os economistas imediatistas e cursinhos de inglês não comentam: conhecimento.
 Aqui no Idiomag focamos no conhecimento que a busca de aprender outras línguas proporciona.
