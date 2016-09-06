@@ -6,10 +6,10 @@ permalink: /aprenda/
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Artigos sobre aprender a apreender</h1>
 
   <ul class="post-list">
-    {% for aprender in site.categories %}
+    {% for post in site.categories.aprender %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
