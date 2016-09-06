@@ -26,7 +26,7 @@ Neste artigo você aprenderá:
 * <a href="#instalar">Como instalar o Anki</a>
 * <a href="#sre">Conhecer a interface do programa</a>
 * <a href="#decks">O que são decks</a>
-	* <a href="#sre">Como ter acesso a milhares de decks compartilhados</a>
+	* <a href="#deckscompartilhados">Como ter acesso a milhares de decks compartilhados</a>
 	* <a href="#sre">Como criar o seu próprio deck(!)</a>
 * <a href="#sre">Como medir estatisticamente o quanto aprendeu(!)</a>
 * <a href="#sre">Configuração e funções avançadas do Anki</a>
@@ -64,17 +64,27 @@ Os seus cartões podem conter palavras, frases, imagens, áudio, vídeo e provav
 
 <h3 id="instalar"> O começo - instalando!</h3>
 
-Você pode baixar e instalar o Anki de graça para o Windows, Linux, BSD e Mac. Existe também uma versão paga para iPhone, iPad e 
-iPod Touch, é uma boa forma de apoiar o projeto. (:
+Você pode baixar e instalar o Anki de graça para o Windows, Linux, BSD e Mac. Existe também uma versão paga para iPhone, iPad 
+e iPod Touch, é uma boa forma de apoiar o projeto. (:
 Um grupo de voluntários criou o AnkiDroid, para Android que tá funcionando redondo demais!
 Independente de quais versões que você use, você sempre pode sincronizar pelo Ankiweb.net e usar o Anki em qualquer
 dispositivo que você tenha disponível. 
 Se você precisa de mais informações, pode entrar no site oficial. Se quiser ler mais em Português, confira o anki.com.br.
+A instalação é fácil, se tiver dúvidas pesquise como instalar programas no seu sistema operacional. Caso ainda tenha
+problemas, diga qual o problema nos comentários abaixo e alguém da equipe Poligloticamente vai te ajudar. \o
 
 <h3 id="decks">O que são Decks</h3>
 
 A base do Anki são os deks de cartas. Você pode criar um novo deck (para estudar pr'aquela prova na semana que vem, ou pr'aquela
 reunião macabra com o chefe). Cada deck pode conter textos, imagens, sons ou até vídeo se necessário!
 Mas talvez uma das coisas mais legais do Anki seja a possibilidade de compartilhar os decks.
-https://ankiweb.net/shared/decks/
+
+<h4 id="deckscompartilhados">https://ankiweb.net/shared/decks/</h4>
 O Anki é um programa que tá por aí já faz muito tempo e tem muita coisa criada pra ele.
+No ankiweb.net, você pode criar a sua conta, sincronizar o Anki em todos os dispositivos que quiser, e a melhor parte:
+ baixar os decks compartilhados!
+ Na área de busca, você pode pesquisar por tema ('Concurso', 'Vestibular', 'Geografia' etc) ou por língua ('Espanhol', 'Japonês' etc).
+ Após encontrar o deck que te interessa, faça o download. No Anki, clique em "Importar" e pronto! É só começar a estudar.
+ Uma vez que o deck foi importato, além de estudar no seu computador, telefone e tablet, você também pode entrar no
+ ankiweb.net e estudar por lá.
+ Caso ainda tenha dúvidas sobre como baixar, importar ou acessar o deck compartilhado, escreva um comentário abaixo!
