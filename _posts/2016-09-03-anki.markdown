@@ -38,16 +38,16 @@ O Anki trabalha com cartões. Por exemplo: de um lado uma frase, e do outro a tr
 
 Os seus cartões podem conter palavras, frases, imagens, áudio, vídeo e provavelmente, alguma coisa a mais que não to lembrando. Não só isso: você mesma pode regular o tempo do espaçamento entre uma aparição e outra. O Anki pode ser usado para aprender várias coisas:
 
-  --  Tabela periódica
-  --  Lembrar uma sequência de exercisios físicos
-  --  Estudar para aquela prova ou concurso macabros
-  --  Aprender as escalas musicais
-  --  Aprender a distinguir plantas ou o canto dos passáros
-  --  Um idioma
-    --   vocabulário
-    --   pronúncia
-    --   conjugação
-    --   e muuuuuito mais!
+*  Tabela periódica
+*  Lembrar uma sequência de exercisios físicos
+*  Estudar para aquela prova ou concurso macabros
+*  Aprender as escalas musicais
+*  Aprender a distinguir plantas ou o canto dos passáros
+*  Um idioma
+	*  vocabulário
+	*  pronúncia
+	*  conjugação
+*  e muuuuuito mais!
 
 ### O começo - instalando!
 
