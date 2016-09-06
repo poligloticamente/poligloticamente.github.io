@@ -12,8 +12,9 @@ layout: default
     {{ content }}
   </div>
   
-  {{ page.previous }}
-  {{ page.next }}
+        <h2>
+          <a class="post-link" href="{{ page.next | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+        </h2>
 
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
