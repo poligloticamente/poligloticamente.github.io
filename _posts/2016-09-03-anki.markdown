@@ -20,6 +20,19 @@ Repito: para quê aprendêlas se no fim vamos esquecer?
 
 Para dar um jeito no problema, podemos utilisar um programinha chamado Anki.
 
+Neste artigo você aprenderá:
+
+* <a href="#sre">O que é Sistema de repetição espada (SRE)</a>
+* <a href="#instalar">Como instalar o Anki</a>
+* <a href="#sre">Conhecer a interface do programa</a>
+* <a href="#decks">O que são decks</a>
+	* <a href="#sre">Como ter acesso a milhares de decks compartilhados</a>
+	* <a href="#sre">Como criar o seu próprio deck(!)</a>
+* <a href="#sre">Como medir estatisticamente o quanto aprendeu(!)</a>
+* <a href="#sre">Configuração e funções avançadas do Anki</a>
+
+<h3 id="sre">O que é Sistema de Repetição Espaçada</h3>
+
 Anki é um programa livre e gratis que funciona como um Sistema de Repetição Espaçada (SRE). Ou seja, uma palavra que você 
 acabou de aprender hoje, vai aparecer de novo amanhã.
 
@@ -49,7 +62,7 @@ Os seus cartões podem conter palavras, frases, imagens, áudio, vídeo e provav
 	*  conjugação
 *  e muuuuuito mais!
 
-### O começo - instalando!
+<h3 id="instalar"> O começo - instalando!</h3>
 
 Você pode baixar e instalar o Anki de graça para o Windows, Linux, BSD e Mac. Existe também uma versão paga para iPhone, iPad e 
 iPod Touch, é uma boa forma de apoiar o projeto. (:
@@ -58,7 +71,7 @@ Independente de quais versões que você use, você sempre pode sincronizar pelo
 dispositivo que você tenha disponível. 
 Se você precisa de mais informações, pode entrar no site oficial. Se quiser ler mais em Português, confira o anki.com.br.
 
-### O que são Decks
+<h3 id="decks">O que são Decks</h3>
 
 A base do Anki são os deks de cartas. Você pode criar um novo deck (para estudar pr'aquela prova na semana que vem, ou pr'aquela
 reunião macabra com o chefe). Cada deck pode conter textos, imagens, sons ou até vídeo se necessário!
