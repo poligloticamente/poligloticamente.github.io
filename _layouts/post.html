@@ -11,6 +11,9 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
+  
+  {{ page.previous }}
+  {{ page.next }}
 
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
