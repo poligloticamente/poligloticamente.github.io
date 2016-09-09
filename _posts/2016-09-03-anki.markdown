@@ -8,21 +8,22 @@ author: elias
 
 
 Esquecer. Sim,esquecer. Lembra? O esquecimento é tido como um grande problema no dia-a-dia de quem tem o dia corrido.
-Mas também é uma das melhores desculpinhas pra não aprender outra língua.
-Só de pensar em ter que aprender tantas palavras, conjugações e etc... ficou cansado?
-Se você tá por aqui é porque você sabe quer aprender outra língua, mas você sabe como aprender e nunca mais esquecer?
+Mas também é uma das (minhas) melhores desculpinhas pra não aprender outra língua.
+Só de pensar em ter que aprender tantas palavras, conjugações e etc... quase que cansa, não?
 
 Acho que ninguém esquece que sempre corremos o risco de esquecer das coisas, não?
-Principalmente quando se trata de um outro idioma: precisamos aprender reconhecer os sons, as letras, as expressões, pronúncia... 
-e sem falar em vocabulário! Se você pesquisar pela internet, vai achar muitos artigos e listas sobre listas de frequência. 
-E daí? De que adianta aprender aquelas 300 palavras que correnspondem a  mais ou menos 50% de tudo que tá pelas revistas e jornais?
+Principalmente quando se trata de um outro idioma: precisamos aprender reconhecer os sons, as letras, 
+as expressões, pronúncia... e sem falar em vocabulário! Se você pesquisar pela internet, vai achar muitos 
+artigos e listas sobre listas de frequência. 
+E daí? De que adianta aprender aquelas 300 palavras que correnspondem a  mais ou menos 50% de tudo que tá 
+pelas revistas e jornais?
 Repito: para quê aprendêlas se no fim vamos esquecer?
 
-Para dar um jeito no problema, podemos utilisar um programinha chamado Anki.
+Para dar um jeito no problema, podemos utilizar um programinha chamado Anki.
 
 Neste artigo você aprenderá:
 
-* <a href="#sre">O que é Sistema de repetição espada (SRE)</a>
+* <a href="#sre">Sistema de repetição espada (SRE)</a>
 * <a href="#instalar">Como instalar o Anki</a>
 * <a href="#sre">Conhecer a interface do programa</a>
 * <a href="#decks">O que são decks</a>
@@ -64,27 +65,28 @@ Os seus cartões podem conter palavras, frases, imagens, áudio, vídeo e provav
 
 <h3 id="instalar"> O começo - instalando!</h3>
 
-Você pode baixar e instalar o Anki de graça para o Windows, Linux, BSD e Mac. Existe também uma versão paga para iPhone, iPad 
-e iPod Touch, é uma boa forma de apoiar o projeto. (:
-Um grupo de voluntários criou o AnkiDroid, para Android que tá funcionando redondo demais!
-Independente de quais versões que você use, você sempre pode sincronizar pelo Ankiweb.net e usar o Anki em qualquer
-dispositivo que você tenha disponível. 
-Se você precisa de mais informações, pode entrar no site oficial. Se quiser ler mais em Português, confira o anki.com.br.
-A instalação é fácil, se tiver dúvidas pesquise como instalar programas no seu sistema operacional. Caso ainda tenha
-problemas, diga qual o problema nos comentários abaixo e alguém da equipe Poligloticamente vai te ajudar. \o
+	Você pode baixar e instalar o Anki de graça para o Windows, Linux, BSD e Mac. Existe também uma versão paga para iPhone, iPad 
+	e iPod Touch, é uma boa forma de apoiar o projeto. (:
+	Um grupo de voluntários criou o AnkiDroid, para Android que tá funcionando redondo demais!
+	Independente de quais versões que você use, você sempre pode sincronizar pelo Ankiweb.net e usar o Anki em qualquer
+	dispositivo que você tenha disponível. 
+	Se você precisa de mais informações, pode entrar no site oficial. Se quiser ler mais em Português, confira o anki.com.br.
+	A instalação é fácil, se tiver dúvidas pesquise como instalar programas no seu sistema operacional. Caso ainda tenha
+	problemas, diga qual o problema nos comentários abaixo e alguém da equipe Poligloticamente vai te ajudar. \o
 
-<h3 id="decks">O que são Decks</h3>
+	<h3 id="decks">O que são Decks</h3>
 
-A base do Anki são os deks de cartas. Você pode criar um novo deck (para estudar pr'aquela prova na semana que vem, ou pr'aquela
-reunião macabra com o chefe). Cada deck pode conter textos, imagens, sons ou até vídeo se necessário!
-Mas talvez uma das coisas mais legais do Anki seja a possibilidade de compartilhar os decks.
+	A base do Anki são os deks de cartas. Você pode criar um novo deck (para estudar pr'aquela prova na semana que vem, ou pr'aquela
+	reunião macabra com o chefe). Cada deck pode conter textos, imagens, sons ou até vídeo se necessário!
+	Mas talvez uma das coisas mais legais do Anki seja a possibilidade de compartilhar os decks.
 
-<h4 id="deckscompartilhados">https://ankiweb.net/shared/decks/</h4>
-O Anki é um programa que tá por aí já faz muito tempo e tem muita coisa criada pra ele.
-No ankiweb.net, você pode criar a sua conta, sincronizar o Anki em todos os dispositivos que quiser, e a melhor parte:
- baixar os decks compartilhados!
- Na área de busca, você pode pesquisar por tema ('Concurso', 'Vestibular', 'Geografia' etc) ou por língua ('Espanhol', 'Japonês' etc).
- Após encontrar o deck que te interessa, faça o download. No Anki, clique em "Importar" e pronto! É só começar a estudar.
- Uma vez que o deck foi importato, além de estudar no seu computador, telefone e tablet, você também pode entrar no
- ankiweb.net e estudar por lá.
+	<h4 id="deckscompartilhados">[Decks com partilhados](https://ankiweb.net/shared/decks/)</h4>
+	O Anki é um programa que tá por aí já faz muito tempo e tem muita coisa criada pra ele.
+	No ankiweb.net, você pode criar a sua conta, sincronizar o Anki em todos os dispositivos que quiser, e a melhor parte:
+	 baixar os decks compartilhados!
+	 Na área de busca, você pode pesquisar por tema ('Concurso', 'Vestibular', 'Geografia' etc) ou por língua ('Espanhol', 'Japonês' etc).
+	 Após encontrar o deck que te interessa, faça o download. No Anki, clique em "Importar" e pronto! É só começar a estudar.
+	 Uma vez que o deck foi importato, além de estudar no seu computador, telefone e tablet, você também pode entrarno
+tudar por lá.
  Caso ainda tenha dúvidas sobre como baixar, importar ou acessar o deck compartilhado, escreva um comentário abaixo!
+	:w
